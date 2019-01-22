@@ -1,3 +1,8 @@
-[
-  {"base":"https//www.baidu.com/baidu","param":"?wd={KEY_WORD}&tn=monline_dg&ie=utf-8","keySign":"{KEY_WORD}","demoKey":"%E7%99%BD%E5%9D%9A%E6%9C%A8"}
-]
+{
+  "job":[
+    {"base":"https://www.zhipin.com/c101280600/b_%E5%8D%97%E5%B1%B1%E5%8C%BA/?query=java&ka=sel-business-1"}
+  ]
+  ,"origin":[
+    {"base":"https//www.baidu.com/baidu","param":"?wd={KEY_WORD}&tn=monline_dg&ie=utf-8","keySign":"{KEY_WORD}","demoKey":"%E7%99%BD%E5%9D%9A%E6%9C%A8"}
+  ]
+}
